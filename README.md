@@ -1,5 +1,5 @@
-##Blackjack
-###Proyecto trabajado en el curso "JavaScript Moderno" de DevTalles.
+## Blackjack
+### Proyecto trabajado en el curso "JavaScript Moderno" de DevTalles.
 
-##Desplegado
+## Desplegado
 #### [Link](https://blackjack-vite-jhon.netlify.app/)
